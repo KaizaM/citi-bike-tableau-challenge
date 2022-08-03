@@ -1,0 +1,16 @@
+Tableau Homework Analysis
+
+I created a total of four different views. My data and dashboard compares the change over three years from July 2019 to July 2020. Since they are both the same season, the same usage peaks can be expected. 
+
+
+The first sheet in my story is the generic change in usership over the three years. We can see a much denser network and usage of the bikes. This shows that 1) we have many more stations and locations of bikes,
+2) but also more usage at each location. In 2019, we can see more space between the bubbles but much more filled in 2022. We can also see increase in the area that the bikes are available which is good.
+
+The second visualization compares the trip duration by where they start and end. Initially, I was surprised that longer trips are away from the metropolitan areas. However, after further consideration, it makes sense since there 
+are many more lacations with bike stations, meaning shorter trips. Additionally, the people living further away could be commuting with them into the city. This is where having the start and end is useful.
+We can see how the major city points have large red circles at the end point. This means that a high volume of people are going there with the longer duration. So they're coming from far away.
+
+The third visualization is the total number of trips during a day. As expected, we can see a similar trend between 2019 and 2022. This may be due to the same season and timing of the data. But we can also see the significant increase 
+in usership within three years. During the peak period, nearly 100,000 more people are using the bikes over the month. This visualization shows the success and actual usage of our investments.
+
+The final visualization shows the overall increase in membership and general users of the citi bikes. This shows the potential of the industry and growth of the economy. 
