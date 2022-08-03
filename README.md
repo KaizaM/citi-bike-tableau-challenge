@@ -1,9 +1,9 @@
 # Unit 18 Homework: Citi Bike Analytics
 
 ## Data Used: 
-   https://s3.amazonaws.com/tripdata/202206-citbike-tripdata.csv.zip 
-   _
-   https://s3.amazonaws.com/tripdata/201906-citibike-tripdata.csv.zip
+   https://s3.amazonaws.com/tripdata/202206-citbike-tripdata.csv.zip \n
+   _AND_
+   https://s3.amazonaws.com/tripdata/201906-citibike-tripdata.csv.zip \n
 
 ### Please download sources from two links above and place in same folder as tableau dashboard
 
